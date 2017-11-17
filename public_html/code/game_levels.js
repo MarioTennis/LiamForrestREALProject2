@@ -22,7 +22,7 @@ var GAME_LEVELS = [
    "                                                                                                                                            ",
    "                                                                                                                                         #^ ",
    " @      s         $          s        $         s         $          s                  s                   s        $        xxxxxxxxxxxxxx",
-   "xxxxxxxxx       xxxxxx       x      xxxxx       x        xxxx        x      xx          x       xx          x      xxxxx      x             ",
+   "xxxxxxxxx       xxxxxx       x      xxxxx       x        xxxx       xx      xx          x       xx          x      xxxxx      x             ",
    "xxxxxxxxx       xxxxxx       x      xx  xx      x       xxxxxx       x      xx          x       xx          x      xxxxxx     x             ",
    "xxxxxxxxx         xx         x      xx xx       x       xx  xx       x      xx          x       xx          x      xx  xx     x             ",
    "xxxxxxxxx         xx         x      xxxx        x       xx  xx       x      xx $        x       xx $        x      xx  xx     x             ",
