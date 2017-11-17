@@ -1,0 +1,31 @@
+.background    { background-image: url("factory05.gif");
+				 background-repeat: no-repeat;
+				 background-attachment: fixed;
+				 background-size: cover;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: rgba(255, 50, 50, .8); }
+.wall          { background: rgb(30, 0, 0);   }
+
+.actor  { position: absolute;  }
+.coin   { background-image: url("coin.gif"); }
+.portal { background: rgb(178, 102, 255) ;}
+.player { background-image: url("deadpool.png"); }
+.speed  { background: rgb(255, 127, 0);}
+.goal   { background: black;}
+.flag   { background: red;}
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
+
+.lost .player {
+  background: rgb(160, 64, 64);
+}
+.won .player {
+  box-shadow: -4px -7px 8px red, 4px -7px 8px red;
+}
