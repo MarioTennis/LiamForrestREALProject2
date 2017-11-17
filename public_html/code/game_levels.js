@@ -75,11 +75,11 @@ var GAME_LEVELS = [
 	"xx       xx     xxxxxx   xxxxxx      xx  xx  xxxxxx  xx xxx     xx",
 	"xx       xx      xxxx     xxxx        x  x   xxxxxx  xx  xx     xx",
 	"xx                                                              xx",
-	"xxx                                                         #^ xxx",
+	//"xxx                                                         #^ xxx",
 	"xxxxxx                                                      xxxxxx",
 	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"],
 	
-  ["                                                                                ",
+  /*["                                                                                ",
    "                                                                                ",
    "                                                                                ",
    "                                                                                ",
@@ -216,7 +216,7 @@ var GAME_LEVELS = [
    "        x=                  =                =x   x                     xxx                                   ",
    "        xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   x!!!!!!!!!!!!!!!!!!!!!xxx!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
    "                                                  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-   "                                                                                                              "]
+   "                                                                                                              "]*/
 ];
 
 if (typeof module != "undefined" && module.exports)
